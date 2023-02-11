@@ -67,7 +67,7 @@
 // sumOfNums(5);
 
 // function someOfNums(num) {
-//     debugger;
+
 //     if (num == 1) {
 //         return num;
 //     }
